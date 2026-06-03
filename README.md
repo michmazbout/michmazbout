@@ -31,14 +31,14 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.eliasalalam.dev/">🌐 Portfolio </a> |
-  <a href="https://www.linkedin.com/in/elias-al-alam/">💼 LinkedIn</a>
+  <a href="https://www.eliasalalam.dev/" target="_blank">🌐 Portfolio </a> |
+  <a href="https://www.linkedin.com/in/elias-al-alam/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>🖌️ Let's Build a Brighter, Greener, and More Creative Future—Together! 🚴‍♂️🌳💻</strong>
+  <strong>🖌️ Let's Build a Brighter, Greener, and More Creative Future Together! 🚴‍♂️🌳💻</strong>
 </p>
 
 <p align="center">
