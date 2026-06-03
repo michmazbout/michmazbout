@@ -31,8 +31,8 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.eliasalalam.dev/" target="_blank">🌐 Portfolio </a> |
-  <a href="https://www.linkedin.com/in/elias-al-alam/" target="_blank">💼 LinkedIn</a>
+  <a href="https://www.eliasalalam.dev/" target="_blank" rel="noopener">🌐 Portfolio </a> |
+  <a href="https://www.linkedin.com/in/elias-al-alam/" target="_blank" rel="noopener">💼 LinkedIn</a>
 </p>
 
 ---
