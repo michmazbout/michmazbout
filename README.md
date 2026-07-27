@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/Cairo-EC796B?style=for-the-badge&logo=starknet&logoColor=white" alt="Cairo">
   <img src="https://img.shields.io/badge/Stan-B2001D?style=for-the-badge" alt="Stan">
 </p>
-
 ---
 
 ## 🔗 Connect with Me
