@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Stan-B2001D?style=for-the-badge" alt="Stan">
 </p>
 ---
-
+---
 ## 🔗 Connect with Me
 
 <p align="center">
